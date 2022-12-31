@@ -1,6 +1,6 @@
 <h1 align="center">
     <img src="https://avatars.githubusercontent.com/u/114239186?s=100&v=4" alt="palera1n logo">
-    <p>palera1n bypass</p>
+    <p>palera1n bypass (real)</p>
 </h1>
 <h3 align="center">An iOS 15.0-16.2 work-in-progress, (semi-)tethered checkm8 jailbreak.</h3>
 <p align="center">
